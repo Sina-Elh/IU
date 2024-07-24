@@ -1,0 +1,5 @@
+pip~=23.3
+pandas
+sqlalchemy
+bokeh
+pytest
